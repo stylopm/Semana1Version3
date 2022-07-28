@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Semana01Version3/1.0.0": {
+        "runtime": {
+          "Semana01Version3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Semana01Version3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
